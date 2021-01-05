@@ -1,0 +1,123 @@
+Experiment configurations
+Seed: 656857626
+Problem: Jump
+Size: 20	k: 6	Extra: None
+Runs: 100
+Stop criteria: solved
+Max generations (if aplicable): 1000
+Max evaluations (if aplicable): 10000
+Algorithm: JA.OnePlusLambdaCommaLambdaSAResetJUMP
+Initial mutation probability: 0.05
+Initial offspring population size: 20
+Initial crossover probability(if aplicable): 1.0
+Mutation updatefactor (if aplicable): 2
+Offspring population size update factor (if aplicable): 1.21550625
+Success ratio (if aplicable): 1
+
+------------------------------------------------------------------
+Final results: Run: 1    Gens: 21027   Evals: 274662  λ: 7 p: 0.351999435606233 Solved: True
+Final results: Run: 2    Gens: 255264  Evals: 3338276 λ: 6 p: 0.3192738644954494 Solved: True
+Final results: Run: 3    Gens: 139782  Evals: 1827830 λ: 5 p: 0.25015942710168965 Solved: True
+Final results: Run: 4    Gens: 179347  Evals: 2345418 λ: 8 p: 0.40748334664366553 Solved: True
+Final results: Run: 5    Gens: 69725   Evals: 911572  λ: 6 p: 0.28959080679859356 Solved: True
+Final results: Run: 6    Gens: 363881  Evals: 4758958 λ: 9 p: 0.4492503896746413 Solved: True
+Final results: Run: 7    Gens: 24561   Evals: 320796  λ: 6 p: 0.3192738644954494 Solved: True
+Final results: Run: 8    Gens: 576995  Evals: 7546340 λ: 4 p: 0.19600645692293278 Solved: True
+Final results: Run: 9    Gens: 213062  Evals: 2786286 λ: 8 p: 0.40748334664366553 Solved: True
+Final results: Run: 10   Gens: 33369   Evals: 436110  λ: 6 p: 0.28959080679859356 Solved: True
+Final results: Run: 11   Gens: 169836  Evals: 2220922 λ: 6 p: 0.3040703471385232 Solved: True
+Final results: Run: 12   Gens: 2760    Evals: 35708   λ: 7 p: 0.351999435606233 Solved: True
+Final results: Run: 13   Gens: 485035  Evals: 6343474 λ: 8 p: 0.38807937775587187 Solved: True
+Final results: Run: 14   Gens: 397451  Evals: 5197996 λ: 5 p: 0.2626673984567741 Solved: True
+Final results: Run: 15   Gens: 17436   Evals: 227654  λ: 6 p: 0.28959080679859356 Solved: True
+Final results: Run: 16   Gens: 80318   Evals: 1050050 λ: 7 p: 0.3352375577202219 Solved: True
+Final results: Run: 17   Gens: 43275   Evals: 565658  λ: 10 p: 0.49529855461629213 Solved: True
+Final results: Run: 18   Gens: 192311  Evals: 2514994 λ: 4 p: 0.2058067797690794 Solved: True
+Final results: Run: 19   Gens: 137631  Evals: 1799796 λ: 5 p: 0.25015942710168965 Solved: True
+Final results: Run: 20   Gens: 85410   Evals: 1116730 λ: 6 p: 0.27580076837961287 Solved: True
+Final results: Run: 21   Gens: 462030  Evals: 6042644 λ: 6 p: 0.3192738644954494 Solved: True
+Final results: Run: 22   Gens: 252481  Evals: 3301942 λ: 5 p: 0.23824707343018062 Solved: True
+Final results: Run: 23   Gens: 63800   Evals: 834096  λ: 6 p: 0.27580076837961287 Solved: True
+Final results: Run: 24   Gens: 48241   Evals: 630592  λ: 6 p: 0.3040703471385232 Solved: True
+Final results: Run: 25   Gens: 32555   Evals: 425508  λ: 9 p: 0.4278575139758488 Solved: True
+Final results: Run: 26   Gens: 6604    Evals: 85974   λ: 7 p: 0.351999435606233 Solved: True
+Final results: Run: 27   Gens: 269453  Evals: 3523740 λ: 7 p: 0.3695994073865446 Solved: True
+Final results: Run: 28   Gens: 767515  Evals: 10038196 λ: 6 p: 0.27580076837961287 Solved: True
+Final results: Run: 29   Gens: 210352  Evals: 2750778 λ: 6 p: 0.3040703471385232 Solved: True
+Final results: Run: 30   Gens: 123646  Evals: 1616834 λ: 4 p: 0.19600645692293278 Solved: True
+Final results: Run: 31   Gens: 37537   Evals: 490598  λ: 8 p: 0.40748334664366553 Solved: True
+Final results: Run: 32   Gens: 23876   Evals: 311864  λ: 9 p: 0.47171290915837344 Solved: True
+Final results: Run: 33   Gens: 181046  Evals: 2367532 λ: 5 p: 0.2269019746954101 Solved: True
+Final results: Run: 34   Gens: 71630   Evals: 936378  λ: 7 p: 0.3695994073865446 Solved: True
+Final results: Run: 35   Gens: 474259  Evals: 6202596 λ: 9 p: 0.4278575139758488 Solved: True
+Final results: Run: 36   Gens: 258750  Evals: 3383688 λ: 8 p: 0.38807937775587187 Solved: True
+Final results: Run: 37   Gens: 356258  Evals: 4659228 λ: 8 p: 0.40748334664366553 Solved: True
+Final results: Run: 38   Gens: 305168  Evals: 3990900 λ: 6 p: 0.3192738644954494 Solved: True
+Final results: Run: 39   Gens: 103563  Evals: 1354060 λ: 6 p: 0.27580076837961287 Solved: True
+Final results: Run: 40   Gens: 77732   Evals: 1016308 λ: 8 p: 0.38807937775587187 Solved: True
+Final results: Run: 41   Gens: 102998  Evals: 1346690 λ: 7 p: 0.3352375577202219 Solved: True
+Final results: Run: 42   Gens: 348693  Evals: 4560246 λ: 6 p: 0.27580076837961287 Solved: True
+Final results: Run: 43   Gens: 459438  Evals: 6008832 λ: 6 p: 0.3040703471385232 Solved: True
+Final results: Run: 44   Gens: 1623    Evals: 20790   λ: 5 p: 0.23824707343018062 Solved: True
+Final results: Run: 45   Gens: 153462  Evals: 2006816 λ: 9 p: 0.47171290915837344 Solved: True
+Final results: Run: 46   Gens: 330808  Evals: 4326346 λ: 9 p: 0.4278575139758488 Solved: True
+Final results: Run: 47   Gens: 192955  Evals: 2523400 λ: 8 p: 0.40748334664366553 Solved: True
+Final results: Run: 48   Gens: 80810   Evals: 1056586 λ: 6 p: 0.28959080679859356 Solved: True
+Final results: Run: 49   Gens: 257975  Evals: 3373702 λ: 6 p: 0.3040703471385232 Solved: True
+Final results: Run: 50   Gens: 72555   Evals: 948574  λ: 4 p: 0.19600645692293278 Solved: True
+Final results: Run: 51   Gens: 35395   Evals: 462498  λ: 6 p: 0.28959080679859356 Solved: True
+Final results: Run: 52   Gens: 942801  Evals: 12330648 λ: 7 p: 0.351999435606233 Solved: True
+Final results: Run: 53   Gens: 38731   Evals: 506144  λ: 5 p: 0.2626673984567741 Solved: True
+Final results: Run: 54   Gens: 299     Evals: 3528    λ: 6 p: 0.28959080679859356 Solved: True
+Final results: Run: 55   Gens: 17638   Evals: 230250  λ: 9 p: 0.4278575139758488 Solved: True
+Final results: Run: 56   Gens: 91271   Evals: 1193432 λ: 7 p: 0.3695994073865446 Solved: True
+Final results: Run: 57   Gens: 227865  Evals: 2979954 λ: 9 p: 0.4492503896746413 Solved: True
+Final results: Run: 58   Gens: 60637   Evals: 792786  λ: 3 p: 0.1462630359960863 Solved: True
+Final results: Run: 59   Gens: 297541  Evals: 3891252 λ: 8 p: 0.40748334664366553 Solved: True
+Final results: Run: 60   Gens: 349068  Evals: 4565230 λ: 7 p: 0.351999435606233 Solved: True
+Final results: Run: 61   Gens: 51268   Evals: 670172  λ: 7 p: 0.3352375577202219 Solved: True
+Final results: Run: 62   Gens: 222309  Evals: 2907186 λ: 3 p: 0.126347509768782 Solved: True
+Final results: Run: 63   Gens: 52537   Evals: 686694  λ: 7 p: 0.3695994073865446 Solved: True
+Final results: Run: 64   Gens: 195097  Evals: 2551352 λ: 6 p: 0.3192738644954494 Solved: True
+Final results: Run: 65   Gens: 106205  Evals: 1388770 λ: 9 p: 0.4278575139758488 Solved: True
+Final results: Run: 66   Gens: 95745   Evals: 1251952 λ: 8 p: 0.38807937775587187 Solved: True
+Final results: Run: 67   Gens: 403691  Evals: 5279642 λ: 7 p: 0.351999435606233 Solved: True
+Final results: Run: 68   Gens: 153266  Evals: 2004256 λ: 7 p: 0.3695994073865446 Solved: True
+Final results: Run: 69   Gens: 38720   Evals: 506072  λ: 4 p: 0.1866728161170788 Solved: True
+Final results: Run: 70   Gens: 164860  Evals: 2155754 λ: 4 p: 0.19600645692293278 Solved: True
+Final results: Run: 71   Gens: 218299  Evals: 2854732 λ: 9 p: 0.47171290915837344 Solved: True
+Final results: Run: 72   Gens: 334016  Evals: 4368344 λ: 8 p: 0.38807937775587187 Solved: True
+Final results: Run: 73   Gens: 466738  Evals: 6104362 λ: 5 p: 0.25015942710168965 Solved: True
+Final results: Run: 74   Gens: 7548    Evals: 98278   λ: 6 p: 0.27580076837961287 Solved: True
+Final results: Run: 75   Gens: 76471   Evals: 999766  λ: 6 p: 0.3192738644954494 Solved: True
+Final results: Run: 76   Gens: 27846   Evals: 363730  λ: 8 p: 0.40748334664366553 Solved: True
+Final results: Run: 77   Gens: 193391  Evals: 2529064 λ: 6 p: 0.27580076837961287 Solved: True
+Final results: Run: 78   Gens: 154855  Evals: 2024782 λ: 5 p: 0.2269019746954101 Solved: True
+Final results: Run: 79   Gens: 124736  Evals: 1631084 λ: 9 p: 0.47171290915837344 Solved: True
+Final results: Run: 80   Gens: 51217   Evals: 669410  λ: 8 p: 0.38807937775587187 Solved: True
+Final results: Run: 81   Gens: 63830   Evals: 834446  λ: 13 p: 0.6637474338491567 Solved: True
+Final results: Run: 82   Gens: 436198  Evals: 5704800 λ: 6 p: 0.3192738644954494 Solved: True
+Final results: Run: 83   Gens: 42498   Evals: 555558  λ: 5 p: 0.2626673984567741 Solved: True
+Final results: Run: 84   Gens: 169463  Evals: 2216062 λ: 8 p: 0.40748334664366553 Solved: True
+Final results: Run: 85   Gens: 38100   Evals: 497932  λ: 6 p: 0.3040703471385232 Solved: True
+Final results: Run: 86   Gens: 117462  Evals: 1536056 λ: 4 p: 0.1866728161170788 Solved: True
+Final results: Run: 87   Gens: 260254  Evals: 3403462 λ: 8 p: 0.40748334664366553 Solved: True
+Final results: Run: 88   Gens: 173814  Evals: 2273030 λ: 11 p: 0.5460666564644621 Solved: True
+Final results: Run: 89   Gens: 23483   Evals: 306700  λ: 4 p: 0.2160971187575334 Solved: True
+Final results: Run: 90   Gens: 71110   Evals: 929604  λ: 3 p: 0.15357618779589063 Solved: True
+Final results: Run: 91   Gens: 210725  Evals: 2755772 λ: 8 p: 0.38807937775587187 Solved: True
+Final results: Run: 92   Gens: 18307   Evals: 239154  λ: 6 p: 0.27580076837961287 Solved: True
+Final results: Run: 93   Gens: 64381   Evals: 841710  λ: 10 p: 0.49529855461629213 Solved: True
+Final results: Run: 94   Gens: 4257    Evals: 55358   λ: 4 p: 0.2160971187575334 Solved: True
+Final results: Run: 95   Gens: 19392   Evals: 253244  λ: 7 p: 0.351999435606233 Solved: True
+Final results: Run: 96   Gens: 160511  Evals: 2099090 λ: 9 p: 0.47171290915837344 Solved: True
+Final results: Run: 97   Gens: 103368  Evals: 1351642 λ: 7 p: 0.3695994073865446 Solved: True
+Final results: Run: 98   Gens: 59786   Evals: 781492  λ: 8 p: 0.40748334664366553 Solved: True
+Final results: Run: 99   Gens: 61223   Evals: 800366  λ: 7 p: 0.3352375577202219 Solved: True
+Final results: Run: 100  Gens: 13594   Evals: 177442  λ: 7 p: 0.351999435606233 Solved: True
+
+------------------------------------------------------------------
+Average generations to solve:169281.06
+Average evaluations to solve:2213687.12
+Average fitness:26.0
+Average lambda:6.71

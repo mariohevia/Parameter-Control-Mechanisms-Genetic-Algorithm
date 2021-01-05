@@ -1,0 +1,73 @@
+Experiment configurations
+Seed: 178846315
+Problem: Jump
+Size: 140	k: 4	Extra: None
+Runs: 50
+Stop criteria: solved
+Max generations (if aplicable): 1000
+Max evaluations (if aplicable): 10000
+Algorithm: JA.OnePlusLambdaCommaLambdaSAJUMP
+Initial mutation probability: 0.007142857142857143
+Initial offspring population size: 140
+Initial crossover probability(if aplicable): 1.0
+Mutation updatefactor (if aplicable): 2
+Offspring population size update factor (if aplicable): 1.5
+Success ratio (if aplicable): 1
+
+------------------------------------------------------------------
+Final results: Run: 1    Gens: 1867986 Evals: 522962370 λ: 140 p: 1.0 Solved: True
+Final results: Run: 2    Gens: 16901355 Evals: 4732297868 λ: 140 p: 1.0 Solved: True
+Final results: Run: 3    Gens: 4831594 Evals: 1352773900 λ: 140 p: 1.0 Solved: True
+Final results: Run: 4    Gens: 6094284 Evals: 1706329400 λ: 140 p: 1.0 Solved: True
+Final results: Run: 5    Gens: 3710526 Evals: 1038876900 λ: 140 p: 1.0 Solved: True
+Final results: Run: 6    Gens: 13408465 Evals: 3754297308 λ: 140 p: 1.0 Solved: True
+Final results: Run: 7    Gens: 17968046 Evals: 5030976680 λ: 140 p: 1.0 Solved: True
+Final results: Run: 8    Gens: 13992108 Evals: 3917712440 λ: 140 p: 1.0 Solved: True
+Final results: Run: 9    Gens: 14782324 Evals: 4138976988 λ: 140 p: 1.0 Solved: True
+Final results: Run: 10   Gens: 18214372 Evals: 5099945116 λ: 140 p: 1.0 Solved: True
+Final results: Run: 11   Gens: 251410  Evals: 70316250 λ: 140 p: 1.0 Solved: True
+Final results: Run: 12   Gens: 1405055 Evals: 393348978 λ: 140 p: 1.0 Solved: True
+Final results: Run: 13   Gens: 9747362 Evals: 2729177904 λ: 140 p: 1.0 Solved: True
+Final results: Run: 14   Gens: 1472467 Evals: 412218622 λ: 140 p: 1.0 Solved: True
+Final results: Run: 15   Gens: 3121679 Evals: 873988628 λ: 140 p: 1.0 Solved: True
+Final results: Run: 16   Gens: 1287967 Evals: 360545256 λ: 140 p: 1.0 Solved: True
+Final results: Run: 17   Gens: 19777152 Evals: 5537532278 λ: 140 p: 1.0 Solved: True
+Final results: Run: 18   Gens: 744575  Evals: 208405286 λ: 140 p: 1.0 Solved: True
+Final results: Run: 19   Gens: 2329381 Evals: 652162036 λ: 140 p: 1.0 Solved: True
+Final results: Run: 20   Gens: 4447426 Evals: 1245203026 λ: 140 p: 1.0 Solved: True
+Final results: Run: 21   Gens: 10826900 Evals: 3031458072 λ: 140 p: 1.0 Solved: True
+Final results: Run: 22   Gens: 4379891 Evals: 1226294252 λ: 140 p: 1.0 Solved: True
+Final results: Run: 23   Gens: 14272687 Evals: 3996279986 λ: 140 p: 1.0 Solved: True
+Final results: Run: 24   Gens: 3462172 Evals: 969324316 λ: 140 p: 1.0 Solved: True
+Final results: Run: 25   Gens: 16247747 Evals: 4549289540 λ: 140 p: 1.0 Solved: True
+Final results: Run: 26   Gens: 19288576 Evals: 5400720410 λ: 140 p: 1.0 Solved: True
+Final results: Run: 27   Gens: 2692757 Evals: 753900842 λ: 140 p: 1.0 Solved: True
+Final results: Run: 28   Gens: 3222239 Evals: 902150186 λ: 140 p: 1.0 Solved: True
+Final results: Run: 29   Gens: 10233105 Evals: 2865193862 λ: 140 p: 1.0 Solved: True
+Final results: Run: 30   Gens: 3834632 Evals: 1073631236 λ: 140 p: 1.0 Solved: True
+Final results: Run: 31   Gens: 1551661 Evals: 434393268 λ: 140 p: 1.0 Solved: True
+Final results: Run: 32   Gens: 7507841 Evals: 2102119188 λ: 140 p: 1.0 Solved: True
+Final results: Run: 33   Gens: 5590865 Evals: 1565367620 λ: 140 p: 1.0 Solved: True
+Final results: Run: 34   Gens: 24013701 Evals: 6723763130 λ: 140 p: 1.0 Solved: True
+Final results: Run: 35   Gens: 13169154 Evals: 3687290242 λ: 140 p: 1.0 Solved: True
+Final results: Run: 36   Gens: 311241  Evals: 87065168 λ: 140 p: 1.0 Solved: True
+Final results: Run: 37   Gens: 3716225 Evals: 1040475954 λ: 140 p: 1.0 Solved: True
+Final results: Run: 38   Gens: 135653  Evals: 37906834 λ: 140 p: 1.0 Solved: True
+Final results: Run: 39   Gens: 770079  Evals: 215545642 λ: 140 p: 1.0 Solved: True
+Final results: Run: 40   Gens: 11721851 Evals: 3282057040 λ: 140 p: 1.0 Solved: True
+Final results: Run: 41   Gens: 398371  Evals: 111468404 λ: 140 p: 1.0 Solved: True
+Final results: Run: 42   Gens: 7941272 Evals: 2223477390 λ: 140 p: 1.0 Solved: True
+Final results: Run: 43   Gens: 9266200 Evals: 2594467158 λ: 140 p: 1.0 Solved: True
+Final results: Run: 44   Gens: 10691705 Evals: 2993600650 λ: 140 p: 1.0 Solved: True
+Final results: Run: 45   Gens: 7714355 Evals: 2159939204 λ: 140 p: 1.0 Solved: True
+Final results: Run: 46   Gens: 18464504 Evals: 5169980636 λ: 140 p: 1.0 Solved: True
+Final results: Run: 47   Gens: 13900052 Evals: 3891943024 λ: 140 p: 1.0 Solved: True
+Final results: Run: 48   Gens: 9394648 Evals: 2630426838 λ: 140 p: 1.0 Solved: True
+Final results: Run: 49   Gens: 8034061 Evals: 2249460548 λ: 140 p: 1.0 Solved: True
+Final results: Run: 50   Gens: 733312  Evals: 205248138 λ: 140 p: 1.0 Solved: True
+
+------------------------------------------------------------------
+Average generations to solve:7996859.82
+Average evaluations to solve:2239045720.24
+Average fitness:140.0
+Average lambda:140.0

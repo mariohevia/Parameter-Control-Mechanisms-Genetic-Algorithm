@@ -1,0 +1,33 @@
+Experiment configurations
+Seed: 872057747
+Problem: Jump
+Size: 160	k: 4	Extra: None
+Runs: 10
+Stop criteria: solved
+Max generations (if aplicable): 1000
+Max evaluations (if aplicable): 10000
+Algorithm: JA.OnePlusLambdaCommaLambdaSAResetJUMP
+Initial mutation probability: 0.00625
+Initial offspring population size: 160
+Initial crossover probability(if aplicable): 1.0
+Mutation updatefactor (if aplicable): 2
+Offspring population size update factor (if aplicable): 1.02523535308838
+Success ratio (if aplicable): 1
+
+------------------------------------------------------------------
+Final results: Run: 1    Gens: 120540  Evals: 7546532 λ: 5 p: 0.03382027403443555 Solved: True
+Final results: Run: 2    Gens: 1516270 Evals: 95329154 λ: 74 p: 0.4630760712924962 Solved: True
+Final results: Run: 3    Gens: 377089  Evals: 23675912 λ: 50 p: 0.3107958163194692 Solved: True
+Final results: Run: 4    Gens: 1907117 Evals: 119907820 λ: 60 p: 0.37234546778678046 Solved: True
+Final results: Run: 5    Gens: 5425819 Evals: 341218094 λ: 90 p: 0.5617395923532487 Solved: True
+Final results: Run: 6    Gens: 683087  Evals: 42919480 λ: 43 p: 0.2693020233433664 Solved: True
+Final results: Run: 7    Gens: 748145  Evals: 47015272 λ: 12 p: 0.07508124652859441 Solved: True
+Final results: Run: 8    Gens: 2812786 Evals: 176867164 λ: 34 p: 0.2151926604756882 Solved: True
+Final results: Run: 9    Gens: 7473073 Evals: 469974328 λ: 56 p: 0.35204082620520866 Solved: True
+Final results: Run: 10   Gens: 8693059 Evals: 546722338 λ: 124 p: 0.7766788704087831 Solved: True
+
+------------------------------------------------------------------
+Average generations to solve:2975698.5
+Average evaluations to solve:187117609.4
+Average fitness:164.0
+Average lambda:54.8

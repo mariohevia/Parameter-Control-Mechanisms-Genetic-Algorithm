@@ -1,0 +1,28 @@
+Experiment configurations
+Seed: 698609299
+Problem: Jump
+Size: 160	k: 4	Extra: None
+Runs: 5
+Stop criteria: solved
+Max generations (if aplicable): 1000
+Max evaluations (if aplicable): 10000
+Algorithm: JA.FastOnePlusLambdaCommaLambdaJUMP
+Initial mutation probability: 0.00625
+Initial offspring population size: 1
+Initial crossover probability(if aplicable): 1.0
+Mutation updatefactor (if aplicable): 2
+Offspring population size update factor (if aplicable): 2
+Success ratio (if aplicable): 1
+
+------------------------------------------------------------------
+Final results: Run: 1    Gens: 52222009 Evals: 186126144 λ: 10 p: 0.0625 Solved: True
+Final results: Run: 2    Gens: 40496869 Evals: 144298836 λ: 7 p: 0.04375 Solved: True
+Final results: Run: 3    Gens: 47770705 Evals: 170266310 λ: 77 p: 0.48125 Solved: True
+Final results: Run: 4    Gens: 276916647 Evals: 987157868 λ: 1 p: 0.00625 Solved: True
+Final results: Run: 5    Gens: 122624175 Evals: 437110406 λ: 7 p: 0.04375 Solved: True
+
+------------------------------------------------------------------
+Average generations to solve:108006081.0
+Average evaluations to solve:384991912.8
+Average fitness:164.0
+Average lambda:20.4

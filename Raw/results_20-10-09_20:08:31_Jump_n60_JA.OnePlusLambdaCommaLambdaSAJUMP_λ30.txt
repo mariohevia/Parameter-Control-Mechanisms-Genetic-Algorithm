@@ -1,0 +1,123 @@
+Experiment configurations
+Seed: 849178480
+Problem: Jump
+Size: 60	k: 4	Extra: None
+Runs: 100
+Stop criteria: solved
+Max generations (if aplicable): 1000
+Max evaluations (if aplicable): 10000
+Algorithm: JA.OnePlusLambdaCommaLambdaSAJUMP
+Initial mutation probability: 0.016666666666666666
+Initial offspring population size: 30
+Initial crossover probability(if aplicable): 1.0
+Mutation updatefactor (if aplicable): 2
+Offspring population size update factor (if aplicable): 1.5
+Success ratio (if aplicable): 1
+
+------------------------------------------------------------------
+Final results: Run: 1    Gens: 15820   Evals: 944086  λ: 30 p: 0.5 Solved: True
+Final results: Run: 2    Gens: 1377    Evals: 76572   λ: 30 p: 0.5 Solved: True
+Final results: Run: 3    Gens: 28906   Evals: 1727936 λ: 30 p: 0.5 Solved: True
+Final results: Run: 4    Gens: 146327  Evals: 8772556 λ: 30 p: 0.5 Solved: True
+Final results: Run: 5    Gens: 73026   Evals: 4375562 λ: 30 p: 0.5 Solved: True
+Final results: Run: 6    Gens: 78970   Evals: 4731628 λ: 30 p: 0.5 Solved: True
+Final results: Run: 7    Gens: 28959   Evals: 1730798 λ: 30 p: 0.5 Solved: True
+Final results: Run: 8    Gens: 53658   Evals: 3212268 λ: 30 p: 0.5 Solved: True
+Final results: Run: 9    Gens: 31242   Evals: 1868380 λ: 30 p: 0.5 Solved: True
+Final results: Run: 10   Gens: 100102  Evals: 5997826 λ: 30 p: 0.5 Solved: True
+Final results: Run: 11   Gens: 4140    Evals: 241248  λ: 30 p: 0.5 Solved: True
+Final results: Run: 12   Gens: 33040   Evals: 1975154 λ: 30 p: 0.5 Solved: True
+Final results: Run: 13   Gens: 159892  Evals: 9586568 λ: 30 p: 0.5 Solved: True
+Final results: Run: 14   Gens: 78891   Evals: 4725798 λ: 30 p: 0.5 Solved: True
+Final results: Run: 15   Gens: 66168   Evals: 3965760 λ: 30 p: 0.5 Solved: True
+Final results: Run: 16   Gens: 63672   Evals: 3812510 λ: 30 p: 0.5 Solved: True
+Final results: Run: 17   Gens: 117308  Evals: 7031938 λ: 30 p: 0.5 Solved: True
+Final results: Run: 18   Gens: 189012  Evals: 11334798 λ: 30 p: 0.5 Solved: True
+Final results: Run: 19   Gens: 10414   Evals: 618360  λ: 30 p: 0.5 Solved: True
+Final results: Run: 20   Gens: 33675   Evals: 2015232 λ: 30 p: 0.5 Solved: True
+Final results: Run: 21   Gens: 15712   Evals: 936296  λ: 30 p: 0.5 Solved: True
+Final results: Run: 22   Gens: 71815   Evals: 4303296 λ: 30 p: 0.5 Solved: True
+Final results: Run: 23   Gens: 76649   Evals: 4592038 λ: 30 p: 0.5 Solved: True
+Final results: Run: 24   Gens: 36345   Evals: 2174174 λ: 30 p: 0.5 Solved: True
+Final results: Run: 25   Gens: 34488   Evals: 2062864 λ: 30 p: 0.5 Solved: True
+Final results: Run: 26   Gens: 179693  Evals: 10773306 λ: 30 p: 0.5 Solved: True
+Final results: Run: 27   Gens: 5133    Evals: 300534  λ: 30 p: 0.5 Solved: True
+Final results: Run: 28   Gens: 88258   Evals: 5287930 λ: 30 p: 0.5 Solved: True
+Final results: Run: 29   Gens: 194106  Evals: 11639616 λ: 30 p: 0.5 Solved: True
+Final results: Run: 30   Gens: 38707   Evals: 2316902 λ: 30 p: 0.5 Solved: True
+Final results: Run: 31   Gens: 77576   Evals: 4648664 λ: 30 p: 0.5 Solved: True
+Final results: Run: 32   Gens: 68307   Evals: 4092658 λ: 30 p: 0.5 Solved: True
+Final results: Run: 33   Gens: 33403   Evals: 1997130 λ: 30 p: 0.5 Solved: True
+Final results: Run: 34   Gens: 15679   Evals: 934540  λ: 30 p: 0.5 Solved: True
+Final results: Run: 35   Gens: 35203   Evals: 2105112 λ: 30 p: 0.5 Solved: True
+Final results: Run: 36   Gens: 25918   Evals: 1548142 λ: 30 p: 0.5 Solved: True
+Final results: Run: 37   Gens: 99327   Evals: 5952656 λ: 30 p: 0.5 Solved: True
+Final results: Run: 38   Gens: 293019  Evals: 17574122 λ: 30 p: 0.5 Solved: True
+Final results: Run: 39   Gens: 38823   Evals: 2323364 λ: 30 p: 0.5 Solved: True
+Final results: Run: 40   Gens: 184751  Evals: 11078214 λ: 30 p: 0.5 Solved: True
+Final results: Run: 41   Gens: 255468  Evals: 15320750 λ: 30 p: 0.5 Solved: True
+Final results: Run: 42   Gens: 40616   Evals: 2431482 λ: 30 p: 0.5 Solved: True
+Final results: Run: 43   Gens: 62384   Evals: 3737338 λ: 30 p: 0.5 Solved: True
+Final results: Run: 44   Gens: 138927  Evals: 8330434 λ: 30 p: 0.5 Solved: True
+Final results: Run: 45   Gens: 162145  Evals: 9722964 λ: 30 p: 0.5 Solved: True
+Final results: Run: 46   Gens: 19334   Evals: 1154416 λ: 30 p: 0.5 Solved: True
+Final results: Run: 47   Gens: 122927  Evals: 7369752 λ: 30 p: 0.5 Solved: True
+Final results: Run: 48   Gens: 6390    Evals: 377754  λ: 30 p: 0.5 Solved: True
+Final results: Run: 49   Gens: 81478   Evals: 4881572 λ: 30 p: 0.5 Solved: True
+Final results: Run: 50   Gens: 67998   Evals: 4073692 λ: 30 p: 0.5 Solved: True
+Final results: Run: 51   Gens: 4040    Evals: 235282  λ: 30 p: 0.5 Solved: True
+Final results: Run: 52   Gens: 51311   Evals: 3072434 λ: 30 p: 0.5 Solved: True
+Final results: Run: 53   Gens: 190     Evals: 5600    λ: 30 p: 0.5 Solved: True
+Final results: Run: 54   Gens: 169414  Evals: 10158570 λ: 30 p: 0.5 Solved: True
+Final results: Run: 55   Gens: 188053  Evals: 11277708 λ: 30 p: 0.5 Solved: True
+Final results: Run: 56   Gens: 19258   Evals: 1149628 λ: 30 p: 0.5 Solved: True
+Final results: Run: 57   Gens: 5101    Evals: 300734  λ: 30 p: 0.5 Solved: True
+Final results: Run: 58   Gens: 34726   Evals: 2076590 λ: 30 p: 0.5 Solved: True
+Final results: Run: 59   Gens: 140188  Evals: 8403818 λ: 30 p: 0.5 Solved: True
+Final results: Run: 60   Gens: 10701   Evals: 636640  λ: 30 p: 0.5 Solved: True
+Final results: Run: 61   Gens: 222766  Evals: 13360374 λ: 30 p: 0.5 Solved: True
+Final results: Run: 62   Gens: 131658  Evals: 7893158 λ: 30 p: 0.5 Solved: True
+Final results: Run: 63   Gens: 136542  Evals: 8186854 λ: 30 p: 0.5 Solved: True
+Final results: Run: 64   Gens: 44559   Evals: 2666894 λ: 30 p: 0.5 Solved: True
+Final results: Run: 65   Gens: 73903   Evals: 4427562 λ: 30 p: 0.5 Solved: True
+Final results: Run: 66   Gens: 24471   Evals: 1460220 λ: 30 p: 0.5 Solved: True
+Final results: Run: 67   Gens: 12861   Evals: 764688  λ: 30 p: 0.5 Solved: True
+Final results: Run: 68   Gens: 53885   Evals: 3227316 λ: 30 p: 0.5 Solved: True
+Final results: Run: 69   Gens: 17926   Evals: 1069696 λ: 30 p: 0.5 Solved: True
+Final results: Run: 70   Gens: 292643  Evals: 17551536 λ: 30 p: 0.5 Solved: True
+Final results: Run: 71   Gens: 3345    Evals: 194558  λ: 30 p: 0.5 Solved: True
+Final results: Run: 72   Gens: 8807    Evals: 521442  λ: 30 p: 0.5 Solved: True
+Final results: Run: 73   Gens: 300213  Evals: 18005576 λ: 30 p: 0.5 Solved: True
+Final results: Run: 74   Gens: 8478    Evals: 501932  λ: 30 p: 0.5 Solved: True
+Final results: Run: 75   Gens: 57128   Evals: 3420128 λ: 30 p: 0.5 Solved: True
+Final results: Run: 76   Gens: 169099  Evals: 10139606 λ: 30 p: 0.5 Solved: True
+Final results: Run: 77   Gens: 8655    Evals: 513050  λ: 30 p: 0.5 Solved: True
+Final results: Run: 78   Gens: 87666   Evals: 5252154 λ: 30 p: 0.5 Solved: True
+Final results: Run: 79   Gens: 74999   Evals: 4494750 λ: 30 p: 0.5 Solved: True
+Final results: Run: 80   Gens: 339305  Evals: 20350772 λ: 30 p: 0.5 Solved: True
+Final results: Run: 81   Gens: 100335  Evals: 6013074 λ: 30 p: 0.5 Solved: True
+Final results: Run: 82   Gens: 286     Evals: 9082    λ: 30 p: 0.5 Solved: True
+Final results: Run: 83   Gens: 84496   Evals: 5062744 λ: 30 p: 0.5 Solved: True
+Final results: Run: 84   Gens: 27527   Evals: 1644282 λ: 30 p: 0.5 Solved: True
+Final results: Run: 85   Gens: 37011   Evals: 2214702 λ: 30 p: 0.5 Solved: True
+Final results: Run: 86   Gens: 171404  Evals: 10278576 λ: 30 p: 0.5 Solved: True
+Final results: Run: 87   Gens: 82854   Evals: 4965818 λ: 30 p: 0.5 Solved: True
+Final results: Run: 88   Gens: 1174    Evals: 63666   λ: 30 p: 0.5 Solved: True
+Final results: Run: 89   Gens: 28241   Evals: 1687418 λ: 30 p: 0.5 Solved: True
+Final results: Run: 90   Gens: 44936   Evals: 2689544 λ: 30 p: 0.5 Solved: True
+Final results: Run: 91   Gens: 22382   Evals: 1335610 λ: 30 p: 0.5 Solved: True
+Final results: Run: 92   Gens: 77378   Evals: 4636006 λ: 30 p: 0.5 Solved: True
+Final results: Run: 93   Gens: 172980  Evals: 10372062 λ: 30 p: 0.5 Solved: True
+Final results: Run: 94   Gens: 93004   Evals: 5574484 λ: 30 p: 0.5 Solved: True
+Final results: Run: 95   Gens: 3450    Evals: 200962  λ: 30 p: 0.5 Solved: True
+Final results: Run: 96   Gens: 89509   Evals: 5363046 λ: 30 p: 0.5 Solved: True
+Final results: Run: 97   Gens: 49178   Evals: 2945326 λ: 30 p: 0.5 Solved: True
+Final results: Run: 98   Gens: 30407   Evals: 1817720 λ: 30 p: 0.5 Solved: True
+Final results: Run: 99   Gens: 104831  Evals: 6283250 λ: 30 p: 0.5 Solved: True
+Final results: Run: 100  Gens: 220066  Evals: 13196644 λ: 30 p: 0.5 Solved: True
+
+------------------------------------------------------------------
+Average generations to solve:80185.18
+Average evaluations to solve:4804599.76
+Average fitness:64.0
+Average lambda:30.0
